@@ -1,21 +1,30 @@
 
-# An introduction to { YOUR TOPIC } or A deep dive into { YOUR TOPIC }
-### Level: Beginner or Advanced
-### Presentation: (link to your presentation if exists)
+# An introduction to delivering technical presentations with confidence
+### Level: Beginner
+### Presentation: TBA
 
 ## Workshop description
-Describe why your topic is important and what you want to share with your audience
+Giving good presentations is an important skill to have and improve. It will make it easier to share your knowledge, 
+inspire, and persuade others.
+But if you feel like me - a not so natural storyteller - it can seem difficult to create good presentations and
+keep the  attention of the audience. As a result, I've spent hours figuring out the best hacks on how to structure
+presentations and feel more confident delivering them. I look forward to sharing them with you in the workshop!
+
+During this session, you will learn how to structure technical presentations to avoid common pitfalls that result in 
+losing the attention of your audience. Additionally, you will get tips & tricks on how to deliver your presentation with 
+confidence and how to tweak your talk for an online audience.
 
 ## Requirements
-Do not forget to indicate Python version and any other tools
-+ add requirements.txt or conda.yml or docker image or Binder/Google Collab link
+No hard requirements. 
 
 ## Usage
-* Clone the repository
-* Start { TOOL } and navigate to the workshop folder
+* PyLadies will add a presentation deck template that you can use for future PyLadies presentations.
+* In [this file](tipsandtricks.md) you can find a guide to help you structure your presentations as well as some
+ quick tips.
+
 
 ## Video record
 Will be available within 1-2 weeks after the event
 
 ## Credits
-This workshop was set up by @pyladiesams and {your github handler}
+This workshop was set up by @pyladiesams and @sagieske
