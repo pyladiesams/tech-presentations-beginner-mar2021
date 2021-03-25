@@ -49,9 +49,6 @@ presentations.
   out the host if there are no questions from the audience.
 - Don’t be afraid to say you don’t know the answer to the question. You can say “That’s
   a really good question. I have to say I don’t know.”
-- Be you! You are taking the step to stand in front of an audience and share your knowledge. You should be
- proud of
- yourself. And even though practice is important, make sure to stay authentic and true to yourself. Because you, my
-  friend, 
-  are
-  amazing! 
+- Be you! You are taking the step to stand in front of an audience and share your
+  knowledge. You should be proud of yourself. And even though practice is important,
+  make sure to stay authentic and true to yourself. Because you, my friend, are amazing!
