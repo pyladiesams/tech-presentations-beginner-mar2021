@@ -26,7 +26,7 @@ None
 
 - PyLadies will add a presentation deck template that you can use for future PyLadies
   presentations.
-- In [this file](tipsandtricks.md) you can find a guide to help you structure your
+- In [this file](storystructureguide.md) you can find a guide to help you structure your
   presentations.
 - [Here](tipsandtricks.md) you can find quick tips to improve your presentation.
 
