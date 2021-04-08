@@ -28,6 +28,10 @@ presentations.
 - [Stop procrastination - checklist](https://www.echorivera.com/blog/end-presentation-procrastination)
 - [How to improve your presentation skills](https://www.inc.com/guides/how-to-improve-your-presentation-skills.html)
 
+#### Suggested tools
+- [Great website to create beautiful images of pieces of code](https://carbon.now.sh/)
+- [Great tool for embedding code in presentations](https://slides.com/)
+
 ## Quick Presentation Tips
 
 - Looking for nice images for your presentation? You can find free stock photos at Pexel
