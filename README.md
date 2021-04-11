@@ -18,13 +18,12 @@ common pitfalls that result in losing the attention of your audience. Additional
 will get tips & tricks on how to deliver your presentation with confidence and how to
 tweak your talk for an online audience.
 
-## Requirements
-
+## Requireme
 None
 
 ## Usage
 
-- PyLadies will add a presentation deck template that you can use for future PyLadies
+- [PyLadies presentation deck template](Template.pptx) that you can use for future PyLadies 
   presentations.
 - In [this file](storystructureguide.md) you can find a guide to help you structure your
   presentations.
